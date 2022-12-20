@@ -1,0 +1,1 @@
+The purpose of this project is to use the .includes logic within a for..of loop with the logical OR || operator.
